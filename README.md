@@ -27,17 +27,19 @@ public class Main {
         // Setting a string to the encrypt() method
         String encrypt = krypton.encrypt("Hello World", key);
 
+        String output = encrypt;
+
         System.out.println("------------ encrypted text ------------");
         System.out.println(encrypt);
         System.out.println("------------ Key ------------");
         System.out.println(key);
-
-        String decrypt = krypton.decrypt(encrypt, key);
+        
+        // decrypting the encrypted text and inserting the key for decryption
+        String decrypt = krypton.decrypt(output, key);
 
         System.out.println("------------ Decrypted text ------------");
         System.out.println(decrypt);
     }
 }
-
 
 ```
