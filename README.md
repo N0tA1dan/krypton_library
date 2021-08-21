@@ -43,3 +43,8 @@ public class Main {
 }
 
 ```
+
+# Support
+
+If you need support or would like to make a submission contact my emai: notaidan420@gmail.com
+
