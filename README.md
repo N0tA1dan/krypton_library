@@ -4,6 +4,10 @@ Welcome to the Krypton Library. A library meant for the krypton algorithm for ja
 
 # Getting started
 
+Watch the youtube video linked below for a full tutorial getting started:
+
+https://www.youtube.com/watch?v=PG4lgZ4LotQ&t=118s
+
 To Use the Krypton library in java, download or clone the repository into your project enviroment. Then unzip and extract the "krypton" folder into your project enviroment.
 Finally import Krypton by typing the following code below into your project.
 
